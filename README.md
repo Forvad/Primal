@@ -9,7 +9,7 @@
 
  * Launch installer, click 'add python to PATH'
 
- * Download "DS_Bot_Forvad"
+ * Download "Primal"
 
  * Open Command Line in "Primal" directory
 
