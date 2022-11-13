@@ -13,7 +13,7 @@
 
  * Open Command Line in "Primal" directory
 
- * `pip install requirements.txt`
+ * `pip install -r requirements.txt`
 
  * `python primalV1.py`
 
